@@ -1,0 +1,6 @@
+@media all (max-width: 992px ){
+    .t_menuItem ul li a {
+        padding: 16px 15px;
+        font-size: 18px;
+    }
+}
